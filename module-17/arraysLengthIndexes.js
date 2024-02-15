@@ -2,8 +2,8 @@
 
 
 //array length enable us to know how much element or items in an array
-// const numbers = [23, 324, 345, 76, 67, 796, 203, 504, 23, 324, 345, 76, 67, 796, 203, 504]
-// console.log(numbers.length);
+const numbers = [23, 324, 345, 76, 67, 796, 203, 504, 23, 324, 345, 76, 67, 796, 203, 504]
+console.log(numbers.length);
 
 //array index
 

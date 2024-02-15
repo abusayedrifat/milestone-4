@@ -1,10 +1,10 @@
 //"i will invest at least 6 hours every single day next 6 months" display this line 60 times
 
-//  let sentence = 0;
-// while (sentence < 60) {
-//     console.log("i will invest at least 6 hours every single day next 6 months");
-//     sentence++
-// }
+ let sentence = 0;
+while (sentence < 60) {
+    console.log("i will invest at least 6 hours every single day next 6 months");
+    sentence++
+}
 
 //------------------------------------------------------------------------------------------------------------
 

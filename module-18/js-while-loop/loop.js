@@ -2,7 +2,7 @@
 //---------------------------------
 //recap
 //const : value wouldn't change
-//let : vale could change
+//let : value could change
 //var : we shouldn't use it
 //---------------------------------
 

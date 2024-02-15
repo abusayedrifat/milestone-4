@@ -62,7 +62,7 @@ function checkName(Name) {
   //problem - 3
 
   function deleteInvalids(arrays) {
-    return arrays.filter( arrays => typeof arrays == "number")
+    return arrays.filter( arrays =>typeof arrays == "number")
 }
 deleteInvalids([23, 234, 9, 98, 324, 'rifat', 'nehan', 'ifraim', 'shehjad'])
 

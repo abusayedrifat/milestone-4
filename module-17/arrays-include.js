@@ -2,10 +2,10 @@
 
 const friends = ['rifat', 'sifat', 'sourav', 'masud', 'shawon', 'emad', 'shanto'];
 
-// console.log(friends)
-// console.log(friends.includes('sifat'))
+console.log(friends)
+console.log(friends.includes('sifat'))
 
-// console.log(friends.indexOf('saadi'))
+console.log(friends.indexOf('saadi'))
 
 //check is it array or not
 
